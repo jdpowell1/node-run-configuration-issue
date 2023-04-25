@@ -1,0 +1,10 @@
+{
+  "name": "node-run-configuration-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
